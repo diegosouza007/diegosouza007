@@ -5,5 +5,5 @@ I'm studying news technologies to work as a Full Stack developer. My next challe
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 
 <ul>
-  <li>My LikedIn: <a hred="https://www.linkedin.com/in/diego-dsouza/">Diego Souza</a></li>
+  <li>My LikedIn: <a href="https://www.linkedin.com/in/diego-dsouza/">Diego Souza</a></li>
 <ul>
