@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img width=315px align="right" src="./assets/img/developer.svg" />
+<img width=312px align="right" src="./assets/img/developer.svg" />
 
 I am Diego Souza and I have a bachelor's degree in Information Systems at Universidade Estácio de Sá.
 
@@ -11,7 +11,7 @@ At this moment I'm studying new technologies to work as a Full Stack developer a
 
 - My LinkedIn: <a href="https://www.linkedin.com/in/diego-dsouza/">Diego Souza</a>
 
-<br/>
+<br/><br/>
  <div>
   <a href="https://github.com/diegosouza007">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegosouza007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
