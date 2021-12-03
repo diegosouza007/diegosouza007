@@ -10,7 +10,7 @@ At the moment I'm studying new technologies on my current courses Web Full Stack
 - :seedling: I’m currently learning: ReactJS
 - :rocket: I will learn: TypeScript, NodeJS and React Native
 <br/>
-<a href="https://www.linkedin.com/in/diego-dsouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/diego-dsouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:dsouza@yahoo.com"><img src="https://img.shields.io/badge/Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"/></a>
 <br/><br/><br/>
  <div>
   <a href="https://github.com/diegosouza007">
