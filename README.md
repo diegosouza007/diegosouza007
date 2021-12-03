@@ -12,8 +12,8 @@ At the moment I'm studying new technologies on my current courses Web Full Stack
 <br/>
 <a href="https://www.linkedin.com/in/diego-dsouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:dsouza@yahoo.com"><img src="https://img.shields.io/badge/Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"/></a>
 <br/><br/><br/>
- <div>
+<div>
   <a href="https://github.com/diegosouza007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegosouza007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosouza007&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=diegosouza007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosouza007&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
