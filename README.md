@@ -17,4 +17,3 @@ At the moment I'm studying new technologies on my current courses Web Full Stack
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegosouza007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosouza007&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-![1f331](https://user-images.githubusercontent.com/11907759/144647462-4869b075-b380-4db6-a86d-f020c795c0c1.png)
